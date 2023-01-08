@@ -58,6 +58,6 @@ Combine the JK images and JKR images to obtain with more than 308 images with ju
 
 To view the construction of a image classification model with the above image data, proceed to the below link.
 
-
+https://github.com/INDUSHA-MAHESH/Image_Classifier_Using_Python
 
 *Thank you for reading!*
