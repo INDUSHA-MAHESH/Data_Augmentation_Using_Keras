@@ -15,8 +15,11 @@ In this repository, a simple yet effective method to build a powerful image clas
 ### Collect Images
 
 I collected three personalities images, J K Rowling, Indra Nooyi and Michael Malarkey and saved them in documents directory
-![image](https://user-images.githubusercontent.com/71513343/211204491-2cba764e-1655-404c-a64b-38edf215e417.png)
-JK folder images count - 10--
+![image](https://user-images.githubusercontent.com/71513343/211204491-2cba764e-1655-404c-a64b-38edf215e417.png)  
+
+JK folder images count - 10   
+
+
 
 ![image](https://user-images.githubusercontent.com/71513343/211205684-71d0307e-e214-4399-9f65-e41c992771af.png)
 
@@ -44,7 +47,8 @@ All the augmentented images are stored in the JKR folder in my instance
 
 ## Image Integration
 
-Combine the JK images and JKR images to obtain with more than 308 images with just 10 images--
+Combine the JK images and JKR images to obtain with more than 308 images with just 10 images  
+
 
 ![image](https://user-images.githubusercontent.com/71513343/211205749-bd5b5984-1e01-4d78-b14c-74f7fb463c67.png)
 
